@@ -1,11 +1,15 @@
 {
   "name": "functor-if",
-  "version": "1.0.0",
-  "description": "Functor If",
+  "version": "1.0.2",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "test:watch": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strange-developer/functor-if"
   },
   "author": "Chamir Bodasing",
   "license": "MIT",
